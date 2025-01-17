@@ -1,0 +1,26 @@
+{
+    "id": "F0029DFC",
+    "path": "C:/Users/BRAILER/Downloads/R Projects/customerSegmentation/summarize_clusters.R",
+    "project_path": "summarize_clusters.R",
+    "type": "r_source",
+    "hash": "1446268523",
+    "contents": "",
+    "dirty": false,
+    "created": 1737108884386.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1737108894,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1737108894653,
+    "read_only": false,
+    "read_only_alternatives": []
+}

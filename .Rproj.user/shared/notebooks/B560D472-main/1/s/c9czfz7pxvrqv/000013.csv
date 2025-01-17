@@ -1,0 +1,9 @@
+"0",""
+"0","# Visualize clusters"
+"0","visualize_clusters(data, kmeans_result$cluster)"
+"2","Warning: package ‘factoextra’ was built under R version 4.2.3"
+"2","Loading required package: ggplot2
+"
+"2","Warning: package ‘ggplot2’ was built under R version 4.2.3"
+"2","Welcome! Want to learn more? See two factoextra-related books at https://goo.gl/ve3WBa
+"

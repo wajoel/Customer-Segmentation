@@ -1,0 +1,22 @@
+"0",""
+"0","# Perform clustering"
+"0","kmeans_result <- perform_kmeans(data, k = 4)"
+"0",""
+"0","# Summarize clusters"
+"0","summary <- summarize_clusters(data, kmeans_result$cluster)"
+"2","Warning: package ‘dplyr’ was built under R version 4.2.3"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","print(summary)"

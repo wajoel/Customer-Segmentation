@@ -1,0 +1,7 @@
+"0","# Load and preprocess data"
+"0","data <- simulate_customer_data()"
+"0","data <- encode_categorical(data, c(""Gender"", ""CreditCardUsage"", ""LoanHistory""))"
+"0","data <- normalize_data(data, c(""Age"", ""Income"", ""MonthlySpend"", ""SavingsBalance"", ""TransactionsPerMonth"", ""Tenure""))"
+"0",""
+"0","# Determine optimal clusters"
+"0","elbow_method(data)"
